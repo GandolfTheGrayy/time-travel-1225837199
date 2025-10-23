@@ -1,3 +1,3 @@
 # Intro
 
-This zine explores time travel ethics from a **BASELINE** perspective.
+This zine explores time travel ethics from an **author** perspective.
