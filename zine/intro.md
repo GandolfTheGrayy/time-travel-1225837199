@@ -1,6 +1,3 @@
 # Intro
 
-Welcome to my experimental zine. We explore paradoxes a **time machine** could create might create, with an editor reviewing each piece.
-
-## Layout
-Two-column idea: left=story, right=timeline callouts.
+This zine explores time travel ethics from an **author** perspective.
