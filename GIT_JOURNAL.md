@@ -1,0 +1,1 @@
+﻿I learned issue-driven branching, PR reviews, tags, and conflict resolution. Two mistakes: used Unix printf in PowerShell and edited from the wrong folder. Lifesaver: GitHub “Resolve conflicts” UI and clear commit messages with reasons.
